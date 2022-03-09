@@ -1,0 +1,2 @@
+To add the MariaBD Connection:
+File -> Project Structure -> Dependencies (on the right) -> Click (+) -> Go to lib folder and add Maria (looks like zip folder) -> Apply -> Ok
